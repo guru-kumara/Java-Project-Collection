@@ -73,8 +73,19 @@ Price per seat: 5000
 Flight cancelled successfully for Passenger ID: 1
 
 ---
-🌟 Like this project?
+```
+## 👨‍💻 Author
 
-*)Give it a ⭐ on GitHub
-*)Fork it and try adding new features
-*)Share with your Java-learning friends!
+**Kumaraguru**  
+🎓 3rd Year CSE | Sri Sairam Institute of Technology  
+🔗 [GitHub](https://github.com/guru-kumara)  
+🔗 [LinkedIn](https://www.linkedin.com/in/kumara-guru1/)
+
+---
+
+## ⭐ Like this Repository?
+
+- Star this repo 🌟 to support
+- Fork it and try out your own versions
+- Connect with me on GitHub and LinkedIn
+
