@@ -74,8 +74,7 @@ Flight cancelled successfully for Passenger ID: 1
 
 ---
 🌟 Like this project?
-Give it a ⭐ on GitHub
 
-Fork it and try adding new features
-
-Share with your Java-learning friends!
+*)Give it a ⭐ on GitHub
+*)Fork it and try adding new features
+*)Share with your Java-learning friends!
