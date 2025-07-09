@@ -81,7 +81,7 @@ Java-Project-Collection/
 4.Follow the prompts in the console or GUI.
 
 .
-
+```
 📌 Contributing
 Want to add more Java projects or features? Feel free to fork this repo and create a pull request!
 
@@ -89,6 +89,15 @@ Want to add more Java projects or features? Feel free to fork this repo and crea
 This project collection is part of self-practice, academic learning, and improving DSA + Java fundamentals. Each project was built from scratch and tested individually.
 
 ---
+```
+```
+🔮 Future Projects (Coming Soon):
+📧 Mail Management System
+🧾 Invoice Management System
+📚 Library Management System
+🧩 Sudoku Solver
+⚔️ Dungeon Game
+```
 ```
 ## 👨‍💻 Author
 
