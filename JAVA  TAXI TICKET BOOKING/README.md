@@ -59,7 +59,7 @@ Taxi booked successfully!
 ---
 ```
 ## 🚀 How to Run
-
+```
 1. Save `Booking.java` and `Taxi.java` in the same folder
 2. Compile:
 ```bash
