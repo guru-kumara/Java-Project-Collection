@@ -44,7 +44,7 @@ JAVA TAXI TICKET BOOKING/
 ---
 
 ## 🔁 Sample Flow
-
+```
 0: BOOK A TAXI
 1: PRINT TAXI DETAILS
 2: EXIT
@@ -57,10 +57,7 @@ Enter pick up time: 6
 
 Taxi booked successfully!
 ---
-
-
----
-
+```
 ## 🚀 How to Run
 
 1. Save `Booking.java` and `Taxi.java` in the same folder
@@ -68,7 +65,7 @@ Taxi booked successfully!
 ```bash
 javac Booking.java Taxi.java
 java Booking
-```
+
 🌟 Show Some Love
 If you find this useful:
 
