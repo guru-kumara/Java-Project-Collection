@@ -89,13 +89,13 @@ Want to add more Java projects or features? Feel free to fork this repo and crea
 This project collection is part of self-practice, academic learning, and improving DSA + Java fundamentals. Each project was built from scratch and tested individually.
 
 ---
-
+```
 ## 👨‍💻 Author
 
 **Kumaraguru**  
 🎓 3rd Year CSE | Sri Sairam Institute of Technology  
 🔗 [GitHub](https://github.com/guru-kumara)  
-🔗 [LinkedIn](www.linkedin.com/in/kumara-guru1)
+🔗 [LinkedIn](https://www.linkedin.com/in/kumara-guru1/)
 
 ---
 
