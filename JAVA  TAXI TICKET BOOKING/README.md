@@ -66,9 +66,19 @@ Taxi booked successfully!
 javac Booking.java Taxi.java
 java Booking
 
-🌟 Show Some Love
-If you find this useful:
+```
+## 👨‍💻 Author
 
-*)⭐ Star the repo
-*)🍴 Fork it
-*)🛠 Contribute or suggest features
+**Kumaraguru**  
+🎓 3rd Year CSE | Sri Sairam Institute of Technology  
+🔗 [GitHub](https://github.com/guru-kumara)  
+🔗 [LinkedIn](https://www.linkedin.com/in/kumara-guru1/)
+
+---
+
+## ⭐ Like this Repository?
+
+- Star this repo 🌟 to support
+- Fork it and try out your own versions
+- Connect with me on GitHub and LinkedIn
+
