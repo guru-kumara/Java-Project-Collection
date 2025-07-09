@@ -81,10 +81,19 @@ Matrix
 0 0 0 0 2
 Shortest Path is 4
 ---
-⭐ Show Your Support
-If you like this project:
+```
+## 👨‍💻 Author
 
-*)⭐ Star this repo
-*)🍴 Fork it
-*)👨‍💻 Share with your friends or add it to your resume!
+**Kumaraguru**  
+🎓 3rd Year CSE | Sri Sairam Institute of Technology  
+🔗 [GitHub](https://github.com/guru-kumara)  
+🔗 [LinkedIn](https://www.linkedin.com/in/kumara-guru1/)
+
+---
+
+## ⭐ Like this Repository?
+
+- Star this repo 🌟 to support
+- Fork it and try out your own versions
+- Connect with me on GitHub and LinkedIn
 
