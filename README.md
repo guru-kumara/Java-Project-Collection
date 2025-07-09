@@ -91,13 +91,13 @@ This project collection is part of self-practice, academic learning, and improvi
 ---
 
 ```
-🔮 Future Projects (Coming Soon):
-📧 Mail Management System
-🧾 Invoice Management System
-📚 Library Management System
-🧩 Sudoku Solver
-⚔️ Dungeon Game
-```
+## 🔮 Future Projects (Coming Soon)
+- 📧 Mail Management System
+- 🧾 Invoice Management System
+- 📚 Library Management System
+- 🧩 Sudoku Solver
+- ⚔️ Dungeon Game
+
 ```
 ## 👨‍💻 Author
 
